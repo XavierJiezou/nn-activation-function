@@ -10,3 +10,6 @@
 # LeakyReLU
 ![leakyrelu](https://latex.codecogs.com/svg.image?{LeakyReLU}(x)&space;=&space;\max(0.01x,&space;x))
 ![](img/leakyrelu.jpg)
+# PReLU
+![prelu](https://latex.codecogs.com/svg.image?{PReLU}(x)&space;=&space;&space;\max(0.25x,&space;x))
+![](img/prelu.jpg)
